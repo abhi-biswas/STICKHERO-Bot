@@ -1,5 +1,4 @@
-# STICKHERO-Bot
-GameBot playing the popular Android Mobile Game Stick Hero
+
 # Stick-Hero (https://play.google.com/store/apps/details?id=com.ketchapp.stickhero&hl=en)
 Android Stick Hero game Hack using Matlab
  
